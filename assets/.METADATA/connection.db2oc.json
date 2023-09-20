@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "db2oc",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "resource_key": "0000:0000:0000:0000:0000:FFFF:A93C:927D|32716|bludb",
+    "asset_category": "USER",
+    "created_at": "2023-09-20T19:55:11Z",
+    "created": 1695239711704,
+    "asset_id": "connection.db2oc",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "8c1a4480-1c29-4b33-9086-9cb799d7b157",
+      "context": "source,target",
+      "properties": {
+        "database": "bludb",
+        "username_password_security": "default",
+        "port": "32716",
+        "host": "b70af05b-76e4-4bca-a1f5-23dbb4c6a74e.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud",
+        "username_password_encryption": "default",
+        "ssl": "true"
+      },
+      "flags": [
+        "personal_credentials"
+      ]
+    }
+  },
+  "attachments": []
+}
