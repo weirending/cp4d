@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "name": "cpd-operators.sh",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2026-05-18T19:15:22Z",
+    "created": 1779131722682,
+    "asset_id": "data_asset.cpdoperatorssh",
+    "asset_attributes": [
+      "data_asset",
+      "directory_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/x-sh"
+    },
+    "directory_asset": {
+      "path": ""
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "cpd-operators.sh",
+      "mime": "application/x-sh",
+      "object_key": "data_asset/cpd-operators.sh",
+      "object_key_is_read_only": true,
+      "created_at": "2026-05-18T19:15:22Z",
+      "id": "cb95b6c9-39c6-479d-b418-80104ae89161",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
