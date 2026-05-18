@@ -1,0 +1,1 @@
+{"description":"The bivariate AssetType.","fields":[{"key":"dataset_id","type":"String","facet":false,"is_array":false,"is_searchable_across_types":false}],"relationships":[],"global_search_searchable":[],"attribute_only":true,"is_column_custom_attribute":false,"can_have_image":false,"version":1,"name":"bivariate","scope":"GLOBAL","allow_decorators":false}
